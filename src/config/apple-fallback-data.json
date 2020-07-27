@@ -1,194 +1,74 @@
 [
   {
-    "device": "12.9\" iPad Pro",
+    "device": "LDPI",
     "portrait": {
-      "width": 2048,
-      "height": 2732
+      "width": 200,
+      "height": 320
     },
     "landscape": {
-      "width": 2732,
-      "height": 2048
+      "width": 320,
+      "height": 200
     },
-    "scaleFactor": 2
+    "scaleFactor": 1
   },
   {
-    "device": "11\" iPad Pro",
+    "device": "MDPI",
     "portrait": {
-      "width": 1668,
-      "height": 2388
+      "width": 320,
+      "height": 480
     },
     "landscape": {
-      "width": 2388,
-      "height": 1668
+      "width": 480,
+      "height": 320
     },
-    "scaleFactor": 2
+    "scaleFactor": 1
   },
   {
-    "device": "10.5\" iPad Pro",
+    "device": "HDPI",
     "portrait": {
-      "width": 1668,
-      "height": 2224
+      "width": 480,
+      "height": 800
     },
     "landscape": {
-      "width": 2224,
-      "height": 1668
+      "width": 800,
+      "height": 480
     },
-    "scaleFactor": 2
+    "scaleFactor": 1
   },
   {
-    "device": "9.7\" iPad",
+    "device": "XHDPI",
     "portrait": {
-      "width": 1536,
-      "height": 2048
+      "width": 720,
+      "height": 1280
     },
     "landscape": {
-      "width": 2048,
-      "height": 1536
+      "width": 1280,
+      "height": 720
     },
-    "scaleFactor": 2
+    "scaleFactor": 1
+  }
+  {
+    "device": "XXHDPI",
+    "portrait": {
+      "width": 960,
+      "height": 1600
+    },
+    "landscape": {
+      "width": 1600,
+      "height": 960
+    },
+    "scaleFactor": 1
   },
   {
-    "device": "7.9\" iPad mini 4",
+    "device": "XXXHDPI",
     "portrait": {
-      "width": 1536,
-      "height": 2048
+      "width": 1280,
+      "height": 1920
     },
     "landscape": {
-      "width": 2048,
-      "height": 1536
+      "width": 1920,
+      "height": 1280
     },
-    "scaleFactor": 2
-  },
-  {
-    "device": "iPhone XS Max",
-    "portrait": {
-      "width": 1242,
-      "height": 2688
-    },
-    "landscape": {
-      "width": 2688,
-      "height": 1242
-    },
-    "scaleFactor": 3
-  },
-  {
-    "device": "iPhone XS",
-    "portrait": {
-      "width": 1125,
-      "height": 2436
-    },
-    "landscape": {
-      "width": 2436,
-      "height": 1125
-    },
-    "scaleFactor": 3
-  },
-  {
-    "device": "iPhone XR",
-    "portrait": {
-      "width": 828,
-      "height": 1792
-    },
-    "landscape": {
-      "width": 1792,
-      "height": 828
-    },
-    "scaleFactor": 2
-  },
-  {
-    "device": "iPhone X",
-    "portrait": {
-      "width": 1125,
-      "height": 2436
-    },
-    "landscape": {
-      "width": 2436,
-      "height": 1125
-    },
-    "scaleFactor": 3
-  },
-  {
-    "device": "iPhone 8 Plus",
-    "portrait": {
-      "width": 1242,
-      "height": 2208
-    },
-    "landscape": {
-      "width": 2208,
-      "height": 1242
-    },
-    "scaleFactor": 3
-  },
-  {
-    "device": "iPhone 8",
-    "portrait": {
-      "width": 750,
-      "height": 1334
-    },
-    "landscape": {
-      "width": 1334,
-      "height": 750
-    },
-    "scaleFactor": 2
-  },
-  {
-    "device": "iPhone 7 Plus",
-    "portrait": {
-      "width": 1242,
-      "height": 2208
-    },
-    "landscape": {
-      "width": 2208,
-      "height": 1242
-    },
-    "scaleFactor": 3
-  },
-  {
-    "device": "iPhone 7",
-    "portrait": {
-      "width": 750,
-      "height": 1334
-    },
-    "landscape": {
-      "width": 1334,
-      "height": 750
-    },
-    "scaleFactor": 2
-  },
-  {
-    "device": "iPhone 6s Plus",
-    "portrait": {
-      "width": 1242,
-      "height": 2208
-    },
-    "landscape": {
-      "width": 2208,
-      "height": 1242
-    },
-    "scaleFactor": 3
-  },
-  {
-    "device": "iPhone 6s",
-    "portrait": {
-      "width": 750,
-      "height": 1334
-    },
-    "landscape": {
-      "width": 1334,
-      "height": 750
-    },
-    "scaleFactor": 2
-  },
-  {
-    "device": "iPhone SE",
-    "portrait": {
-      "width": 640,
-      "height": 1136
-    },
-    "landscape": {
-      "width": 1136,
-      "height": 640
-    },
-    "scaleFactor": 2
+    "scaleFactor": 1
   }
 ]
